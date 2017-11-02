@@ -390,6 +390,7 @@ add_filter( 'get_search_form', 'twentyfifteen_search_form_modify' );
  *
  * @since Twenty Fifteen 1.0
  */
+
 require get_template_directory() . '/inc/custom-header.php';
 
 /**
